@@ -1,7 +1,7 @@
- <h2> 👋 Hi there, I’m Jayathmi Hennayake </h2>
- <h5> - 💻 I'm a Student at the Sri Lanka Institute of Information Technology </h5>
- <h5> - 👀 I’m interested in new technology </h5>
- <h5> - 🌱 I’m currently learning JavaScript </h5>
+ <h1> 👋 Hi there, I’m Jayathmi Hennayake </h1>
+ <h4> - 💻 I'm a Student at the Sri Lanka Institute of Information Technology </h4>
+ <h4> - 👀 I’m interested in new technology </h4>
+ <h4> - 🌱 I’m currently learning JavaScript </h4>
  
 <!---
 JayathmiH/JayathmiH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
