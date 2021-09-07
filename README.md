@@ -1,4 +1,4 @@
-- <h1> 👋 Hi there, I’m Jayathmi Hennayake </h1>
+- <h3> 👋 Hi there, I’m Jayathmi Hennayake </h3>
 - 💻 I'm a Student at the Sri Lanka Institute of Information Technology
 - 👀 I’m interested in new technology 
 - 🌱 I’m currently learning JavaScript
