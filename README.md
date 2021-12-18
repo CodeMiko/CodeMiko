@@ -1,4 +1,4 @@
- <h1> 👋 Hi </h1>
+ <h1> 👋 Hi , I'm  Jayathmi </h1>
  <h4> - 💻 I'm a Student at the Sri Lanka Institute of Information Technology </h4>
  <h4> - 👀 I’m interested in new technology </h4>
  <h4> - 🌱 I’m currently learning JavaScript </h4>
