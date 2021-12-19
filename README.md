@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayathmi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codemiko&label=Profile%20views&color=0e75b6&style=flat" alt="codemiko" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JayaHennayake&label=Profile%20views&color=0e75b6&style=flat" alt="JayaHennayake" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemiko" alt="codemiko" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JayaHennayake" alt="JayaHennayake" /></a> </p>
 
 - 🌱 I’m currently learning *Java Script*
 
@@ -21,8 +21,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Jayathmi Hennayake"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jayathmi Hennayake" /></a><a href="https://ko-fi.com/Jayathmi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Jayathmi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemiko&show_icons=true&locale=en&layout=compact" alt="codemiko" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayaHennayake&show_icons=true&locale=en&layout=compact" alt="JayaHennayake" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codemiko&show_icons=true&locale=en" alt="codemiko" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaHennayake&show_icons=true&locale=en" alt="JayaHennayake" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemiko&" alt="codemiko" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayaHennayake&" alt="JayaHennayake" /></p>
