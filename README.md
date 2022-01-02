@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JayaHennayake" alt="JayaHennayake" /></a> </p>
 
-- 🌱 I’m currently learning *Java Script*
+- 🌱 I’m currently learning <b>*Java Script*</b>
 
 - 💬 Ask me about *react, java, python, html*
 
