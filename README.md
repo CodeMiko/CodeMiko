@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning <b>*Java Script*</b>
 
-- 💬 Ask me about <b>*react, java, python, html*</b>
+- 💬 Ask me about <b>*React, Java, Python, HTML*</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
