@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning <b>*JavaScript*</b>
 
 - 💬 Ask me about <b>*React, Java, Python, HTML*</b>
+- 📫 How to reach me **jayathmih@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
