@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JayaHennayake" alt="JayaHennayake" /></a> </p>
 
-- 🌱 I’m currently learning <b>*JavaScript*</b>
+- 🌱 I’m currently learning **BSc (Hons) in Information Technology Specialising in Software Engineering Degree**
 
 - 💬 Ask me about <b>*React, Java, Python, HTML*</b>
 
