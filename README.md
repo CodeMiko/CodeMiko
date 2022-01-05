@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 🥅 2021 Goals: Contribute more to projects
+- 🥅 2022 Goals: Contribute more to projects
 
 - ⚡ Fun fact **I love to sing and draw**
 
