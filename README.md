@@ -15,7 +15,7 @@
 
 - 🥅 2022 Goals: Contribute more to projects
 
-- ⚡ Fun fact **I love to sing and draw**
+- ⚡ Fun fact I love to sing and draw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
